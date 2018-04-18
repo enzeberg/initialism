@@ -1,0 +1,106 @@
+﻿<initialism>
+   <words>
+       <word enExplain="National Basketball Association" cnExplain="国际篮球协会">NBA</word>
+       <word enExplain="Application Program Interface" cnExplain="应用程序接口">API</word>
+       <word enExplain="Universal Serial Bus " cnExplain="Intel公司开发的通用串行总线架构">USB</word>
+       <word enExplain="Rich Internet Application" cnExplain="富互联网应用">RIA</word>
+       <word enExplain="Internet Explorer" cnExplain="IE浏览器">IE</word>
+       <word enExplain="Artificial Intelligence" cnExplain="人工智能">AI</word>
+       <word enExplain="Virtual Reality" cnExplain="虚拟现实">VR</word>
+       <word enExplain="Personal Computer" cnExplain="个人电脑">PC</word>
+       <word enExplain="International Business Machine(Corporation)" cnExplain="国际商业机器公司">IBM</word>
+       <word enExplain="Software Development Kit" cnExplain="软件开发工具包">SDK</word>
+       <word enExplain="Cascading Style Sheet" cnExplain="层叠样式表">CSS</word>
+       <word enExplain="Photoshop/PlayStation" cnExplain="用Photoshop处理图片/索尼出品的PS游戏主机">PS</word>
+       <word enExplain="The Creative Life" cnExplain="一家著名的电器公司">TCL</word>
+       <word enExplain="Adversity Quotient" cnExplain="逆境商数">AQ</word>
+       <word enExplain="Emotion Quotient" cnExplain="情商">EQ</word>
+       <word enExplain="Intelligence Quotient" cnExplain="智商">IQ</word>
+       <word enExplain="QQ" cnExplain="腾讯出品的社交软件">QQ</word>
+       <word enExplain="Automatic Teller Machine " cnExplain="自动取款（出纳）机">ATM</word>
+       <word enExplain="Very Important Person" cnExplain="贵宾">VIP</word>
+       <word enExplain="Chief Executive Officer" cnExplain="首席执行官">CEO</word>
+       <word enExplain="Chief Finance Officer" cnExplain="首席财务官">CFO</word>
+       <word enExplain="Chief Technology Officer" cnExplain="首席技术官">CTO</word>
+       <word enExplain="Chief Operating Officer" cnExplain="首席运营官">COO</word>
+       <word enExplain="Chief Information Officer " cnExplain="首席信息官">CIO</word>
+       <word enExplain="central processing unit" cnExplain="中央处理器">CPU</word>
+       <word enExplain="Computer Aided Design" cnExplain="计算机辅助设计">CAD</word>
+       <word enExplain="Global Positioning System" cnExplain="全球定位系统">GPS</word>
+       <word enExplain="Object Oriented Programming " cnExplain="面向对象编程">OOP</word>
+       <word enExplain="Domain Name System" cnExplain="域名系统">DNS</word>
+       <word enExplain="Deoxyribonucleic Acid" cnExplain="脱氧核糖核酸">DNA</word>
+       <word enExplain="Unidentified Flying Object" cnExplain="不明飞行物">UFO</word>
+       <word enExplain="Gross Domestic Product" cnExplain="国内生产总值">GDP</word>
+       <word enExplain="British Broad-casting Corporation" cnExplain="英国广播公司">BBC</word>
+       <word enExplain="China Basketball Association" cnExplain="中国篮球协会">CBA</word>
+       <word enExplain="China Central Television" cnExplain="中国中央电视台">CCTV</word>
+       <word enExplain="Music Video" cnExplain="音乐视频">MV</word>
+       <word enExplain="Adult Video" cnExplain="成人视频">AV</word>
+       <word enExplain="the Unitied States" cnExplain="美国">US</word>
+       <word enExplain="the Unitied Kingdom" cnExplain="联合王国">UK</word>
+       <word enExplain="the Unitied Nation" cnExplain="联合国">UN</word>
+       <word enExplain="World Trade Organization" cnExplain="世界贸易组织">WTO</word>
+       <word enExplain="Master of Business Administration" cnExplain="工商管理硕士">MBA</word>
+       <word enExplain="Compact Disc" cnExplain="激光唱盘">CD</word>
+       <word enExplain="Do It Yourself" cnExplain="动手制作">DIY</word>
+       <word enExplain="Information Technology" cnExplain="信息技术">IT</word>
+       <word enExplain="Global Navigation System" cnExplain="全球导航系统">GNS</word>
+       <word enExplain="Operating System" cnExplain="操作系统">OS</word>   
+       <word enExplain="Identification(或Identity)" cnExplain="身份">ID</word>
+	   <word enExplain="User Interface" cnExplain="用户界面">UI</word>   
+	   <word enExplain="Internet Protocol" cnExplain="网际协议">IP</word>
+	   <word enExplain="Transmission Control Protocol" cnExplain="传输控制协议">TCP</word>
+	   <word enExplain="Hyper Text Transfer Protocol" cnExplain="超文本传输协议">HTTP</word>
+	   <word enExplain="File Transfer Protocol" cnExplain="文件传输协议">FTP</word>
+	   <word enExplain="World Wide Web(常简写为“Web”)" cnExplain="万维网">WWW</word>
+	   <word enExplain="Federal Bureau of Investigation" cnExplain="">FBI</word>
+	   <word enExplain="Cardiopulmonary Resuscitation" cnExplain="心肺复苏">CPR</word>
+	   <word enExplain="Frequency Modulation" cnExplain="调频，频率调制">FM</word>
+	   <word enExplain="Extra Sensory Perception " cnExplain="超感官知觉">ESP</word>
+	   <word enExplain="Certified Public Accountant" cnExplain="注册会计师">CPA</word>
+	   <word enExplain="Certified Public Accountant" cnExplain=""></word>
+	   <word enExplain="Asia-Pacific Economic Cooperation" cnExplain="亚太经济合作组织">APEC</word>
+	   <word enExplain="Acquired Immune Deficiency Syndrome" cnExplain="艾滋病">AIDS</word>
+	   <word enExplain="World Health Organization" cnExplain="世界卫生组织">WHO</word>
+	   <word enExplain="Wireless Application Protocol" cnExplain="无线应用协议">WAP</word>
+	   <word enExplain="Asymmetrical Digital Subscriber Line" cnExplain="非对称数字用户线路(又名网络快车)">ADSL</word>
+	   <word enExplain="Central Business District" cnExplain="中央商务区">CBD</word>
+	   <word enExplain="College English Test" cnExplain="大学英语(论坛)测试">CET</word>
+	   <word enExplain="Central Information District" cnExplain="中央信息区">CID</word>
+	   <word enExplain="Consumer Price Index" cnExplain="全国居民消费价格指数">CPI</word>
+	   <word enExplain="Executive Mster of Business Administration" cnExplain="高级经理工商管理硕士">EMBA</word>
+	   <word enExplain="Economic Value Added" cnExplain="经济增加值">EVA</word>
+	   <word enExplain="Gross National Product" cnExplain="国民生产总值">GNP</word>
+	   <word enExplain="Graduate Record Examamination" cnExplain="美国教育考试服务中心（ETS）主办的美国硕士研究生入学资格考试">GRE</word>
+	   <word enExplain="Global System for Mobile Communication" cnExplain="全球移动通信系统">GSM</word>
+	   <word enExplain="Internet Content Provider" cnExplain="因特网内容提供商">ICP</word>
+	   <word enExplain="Integrated Services Digital Network" cnExplain="综合业务数字网">ISDN</word>
+	   <word enExplain="International Standard Book Number" cnExplain="国际标准书号">ISBN</word>
+	   <word enExplain="International Organization for Standardization" cnExplain="国际标准化组织">ISO</word>
+	   <word enExplain="International Telecommunications Union" cnExplain="国际电信同盟">ITU</word>
+	   <word enExplain="Multimedia Messaging Service" cnExplain="多媒体信息服务">MMS</word>
+	   <word enExplain="Mster of Public Administration" cnExplain="公共管理硕士">MPA</word>
+	   <word enExplain="Mobile Switch Center" cnExplain="移动交换中心">MSC</word>
+	   <word enExplain="National Missile Defense" cnExplain="国家导弹防御计划">NMD</word>
+	   <word enExplain="Original Equipment Manufacturer" cnExplain="原始设备制造商">OEM</word>
+	   <word enExplain="Over the Counter" cnExplain="非处方药">OTC</word>
+	   <word enExplain="Public English Test System" cnExplain="全国公共英语等级考试">PETS</word>
+	   <word enExplain="Personal Digital Assistant" cnExplain="个人数字助理">PDA</word>
+	   <word enExplain="Project Management Professional" cnExplain="项目管理专业人员资格认证">PMP</word>
+	   <word enExplain="Perfomanent Normal Trade Relationship" cnExplain="永久正常贸易关系">PNTR</word>
+	   <word enExplain="Security Council" cnExplain="联合国的“安全理事会”">SC</word>
+	   <word enExplain="Short Message Servince" cnExplain="移动数据通讯中的短消息业务">SMS</word>
+	   <word enExplain="Test of English as a Foreign Language" cnExplain="托福">TOEFL</word>
+	   <word enExplain="Test of Spoken English" cnExplain="英语口语考试">TSE</word>
+	   <word enExplain="Universal Postal Union" cnExplain="万国邮政联盟">UPU</word>
+	   <word enExplain="Word Processing System" cnExplain="一种集编辑、排版和打印一体的汉字处理系统">WPS</word>
+	   <word enExplain="International English Language Testing System" cnExplain="雅思考试">IELTS</word>
+	   <word enExplain="Moving Target Indicator " cnExplain="活动目标指示器">MTI</word>
+	   <word enExplain="Digital Vedio" cnExplain="数码摄像">DV</word>
+	   <word enExplain="Digital Data Network" cnExplain="数字数据网">DDN</word>
+	   <word enExplain="Disk Operating System" cnExplain="磁盘操作系统">DOS</word>
+	   <word enExplain="High Definition Television" cnExplain="高清晰度数字电视">HDTV</word>
+	   <word enExplain="Amazon Web Services" cnExplain="亚马逊云服务">AWS</word>
+   </words>
+</initialism>
